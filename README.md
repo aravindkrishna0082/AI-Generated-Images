@@ -44,7 +44,7 @@ We're excited to share our research with the community and invite collaboration.
 
 In this repository, I am pleased to share a comprehensive dataset of 5000 AI-generated images. These images are a result of my research in AI image generation, and they represent a diverse range of styles, subjects, and creative concepts.
 
-To access the dataset, please follow this [Google Drive link]((https://drive.google.com/drive/folders/1vk4BqC6YU7qSs2eOnr3wF8662e2hHOIw?usp=share_link)).
+To access the dataset, please follow this [Google Drive link](https://drive.google.com/drive/folders/1vk4BqC6YU7qSs2eOnr3wF8662e2hHOIw?usp=share_link).
 
 ### About the Dataset
 
